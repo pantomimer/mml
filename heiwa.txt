@@ -1,0 +1,76 @@
+#opll_mode 1
+#tempo 180
+#title {"heiwa"}
+; テンポ120だが三連符を表現するため1.5倍してある
+
+; Dメジャーキー D E F+ G A B C+
+
+9 o5 @11 v13 l4
+A o3 @7 v12 l4
+F l8 v10
+;  Eb	Fm	Gm	Ab	Bb	Cm	Dm(-5)
+
+;/1
+9 d4 c+8 d4 f2.r8
+A a+8 r8r2 f8 r8r2
+F [r4. hs: r4]2
+
+9 d4 c+8 d4 g2.r8
+A b8 r8r2 g8 r8r2
+F [r4. hs: r4]2
+
+9 d4 c+8 d8 r8 c+8 d4 g4. <g1 r2 r8>
+A >c8< r8r2 g8 r8r2 >c8< r8r2 g8 r8r2
+F [r4. hs: r4]3 r4 hs: r4 hs:
+
+
+;/5
+9 d4 c+8 d8 r8 c+8 d4 f4. d8
+A >c8< r8r2 g8 r8r2
+F [r4. hs: r4]2
+
+9 f4 e8 d+4 d4. c4. r8
+A f4 g8 g+4 a4. r2
+f r4. hs: r4 r4 hs: r4 hs:
+
+
+9 d8 r4 <a+8 r4 f8 r4 f+8 r4
+A a+1 r2
+F [r4. hs: r4]2
+
+9 g4 f+8 g4 a4. g8 f8 r4 >
+A f8 r2 f8 r2 r4
+F hsc2 r2 h16 h16 h16 r16 r8 h8
+
+
+;/9
+9 d4 c+8 d4 f2.r8
+A a+8 r8r2 >f8< r8r2
+F [r4. hs: r4]2
+
+9 d4 c+8 d4 g2.r8
+A d8 r8r2 g8 r8r2
+F r4. hs: r4  r4. hs: r8 hs:
+
+9 d4 c+8 d8 r8 c+8 d4 g4. <g1 r2 r8>
+A >c8 r8r2 f8 r8r2 c8< r8r2 g8 r8r2
+F [r4. hs: r4]3 r4. hs: r8 hs:
+
+;/13
+9 d4 c+8 d8 r8 c+8 d4 f4. d8
+A >c8 r8r2 f8< r8r2
+F r4. hs: r4 r4. hs: r8 hs:
+
+9 f8 r4 < f4. g4. a4.
+A f4. g8r4 g+8r4 a8r4
+F [r4. hs: r4]2
+
+9 a+8 r4 f4. e4. d+. 
+A a+8 r4 f4. e4. d+. d. 
+F [r4. hs: r4]2
+
+9 d1 r2 >
+A g8r4 a8r4 a+8r4
+F r4. hs: r4 r4. hs: r8 hs:
+
+

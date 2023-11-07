@@ -1,0 +1,47 @@
+#opll_mode 1
+#tempo 120
+#title {"G Code"}
+
+9 o5 @1 v15 l2
+A o5 @1 v15 l2
+B o5 @1 v15 l2
+
+; G
+9 g
+A b
+B d
+
+; Am
+9 a
+A >c
+B e
+
+;Bm
+9 b
+A d
+B f+
+
+;C
+9 >c
+A e
+B g
+
+;D
+9 d
+A f
+B a
+
+;Em
+9 e
+A g
+B b
+
+;F#m(-5)
+9 f+
+A a
+B >c
+
+; +G
+9 g
+A b
+B d

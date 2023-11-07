@@ -1,0 +1,50 @@
+#opll_mode 1
+#tempo 120
+#title {"Gb F# Code"}
+
+9 o5 @1 v15 l2
+A o5 @1 v15 l2
+B o5 @1 v15 l2
+
+; Gb
+9 g-
+A b-
+B d-
+
+; Abm
+9 a-
+A b
+B e-
+
+; Bbm
+9 b-
+A >d-
+B f
+
+; B
+9 b
+A e-
+B g-
+
+; Db
+9 >d-
+A f
+B a-
+
+; Ebm
+9 e-
+A g-
+B b-
+
+; Fm(-5)
+9 f
+A a-
+B b
+
+; Gb
+9 g-
+A b-
+B >d-
+
+
+

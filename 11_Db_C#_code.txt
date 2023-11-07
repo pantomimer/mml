@@ -1,0 +1,48 @@
+#opll_mode 1
+#tempo 120
+#title {"Db C# Code"}
+
+
+9 o5 @1 v15 l2
+A o5 @1 v15 l2
+B o5 @1 v15 l2
+
+; Db
+9 d-
+A f
+B a-
+
+; Ebm
+9 e-
+A g-
+B b-
+
+; Fm
+9 f
+A a-
+B >c
+
+; Gb
+9 g-
+A b-
+B d-
+
+; Ab
+9 a-
+A >c
+B e-
+
+; Bbm
+9 b-
+A d-
+B f
+
+; Cm(-5)
+9 >c
+A e-
+B g-
+
+; Db
+9 d-
+A f
+B a-

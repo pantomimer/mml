@@ -1,0 +1,38 @@
+;[name=grider lpf=1]
+#opll_mode 1
+#tempo 120
+#title { "Drum test" }
+
+F l4 v13
+; bch などまとめて書くとまとめてなるみたい。
+; 切るにはbch4 と数字で書くか
+; 切るにはbch: と:をつければいいみたい
+; ":"を指定すると音長をデフォルトと見なす(例:bh4 bh:)
+
+
+; bバスドラム
+; cシンバル
+; hハイハット
+; mタム
+; sスネア
+;F h4 h4 h4 h4
+
+; バスドラム
+F b4 c4 h4 m4 s4
+F b:4 c:4 h:4 m:4 s:4
+
+; ハイハットとシンバル？
+;F hs:4 hs:4 hs:4 hs:4 
+
+; 弱いハイハット
+;F h:4 h:4 h:4 h:4 
+
+; 電子シンバル
+;F c4 c4 c4 c4 
+
+; タムっぽい
+;F m:4 m:4 m:4 m:4
+;F c4 c4 c4 c4
+;
+;F [hb8h:hb: cs8hb:h: h:h:cb8 hs8hb:h:]2
+

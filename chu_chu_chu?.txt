@@ -1,0 +1,35 @@
+#opll_mode 1
+#tempo 176
+#title {"chu★chu★chu"}
+
+; EₘGCB KEY Eₘ BPM 176
+
+; 9 o5 @2 v15 l2
+9 o5 @1 v15 l4
+A o5 @2 v13 l2
+B o5 @2 v13 l2
+C o5 @2 v13 l2
+D o5 @2 v13 l2
+
+;  Eb	Fm	Gm	Ab	Bb	Cm	Dm(-5)
+
+
+9 a4. a4. a4 a8 b8 a8 g8 a4 g8 a8
+9 a4. a4. a4 a8 a4 g8 a4 g4
+9 a8 g8 a8 g8 a4 g4 a8 g8 a4 g4 a4
+9 >d4 <b4 a4 g8 a8 a8 b8 a8 g8 a4 g4
+
+; CM7 B7  Bm7 Bm
+A c1  b1  b1  b1
+B e1  e-1 d1  d1
+C g1  g-1 f+1 f+1
+D b1  a1  a1  r1
+
+; CM7 B7  Bm7 C   Bm
+A c1  b1  b1  >c2 <b2
+B e1  e-1 d1  e2  d2
+C g1  g-1 f+1 g2  f+2
+D b1  a1  a1  r2  r2
+
+
+
