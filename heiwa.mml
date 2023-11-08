@@ -1,0 +1,69 @@
+ABCD t180
+@v0 = {15,13,12,11,9,7,5,3,1,0} // スネア
+@v1 = {6,3,0} // クローズハイハット
+@v2 = {6,4,3,3,3,3,3,2,2,2,2,2,0} // オープンハイハット
+@v3 = {15,15,15,15,15,15,15,15,15,15,15,15,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0} // 長スネア
+
+A @2 o4 l8 v6  L
+C    o3 l4     L
+D q7 l16 o0 v2 L
+;/1
+A d4 c+8 d4 f2.r8
+C a+8 r8r2 f8 r8r2
+D [r4. @v0cr r4]2
+
+A d4 c+8 d4 g2.r8
+C b8 r8r2 g8 r8r2
+D [r4. @v0cr r4]2
+
+A d4 c+8 d8 r8 c+8 d4 g4. <g1 r2 r8>
+C >c8< r8r2 g8 r8r2 >c8< r8r2 g8 r8r2
+D [r4. @v0cr r4]3 r4 @v0cr r4 @v0cr
+
+;/5
+A d4 c+8 d8 r8 c+8 d4 f4. d8
+C >c8< r8r2 g8 r8r2
+D [r4. @v0cr r4]2
+
+A f4 e8 d+4 d4. c4. r8
+C f4 g8 g+4 a4. r2
+D r4. @v0cr r4 r4 @v0cr r4 @v0cr
+
+A d8 r4 <a+8 r4 f8 r4 f+8 r4
+C a+1 r2
+D [r4. @v0cr r4]2
+
+A g4 f+8 g4 a4. g8 f8 r4 >
+C f8 r2 f8 r2 r4
+D @v3c2  r2 @v1c @v1c @v1c r8 r @v1c r
+
+
+;/9
+A d4 c+8 d4 f2.r8
+C a+8 r8r2 >f8< r8r2
+D [r4. @v0cr r4]2
+
+A d4 c+8 d4 g2.r8
+C d8 r8r2 g8 r8r2
+D r4. @v0cr r4   r4 @v0cr r4 @v0cr
+
+A d4 c+8 d8 r8 c+8 d4 g4. <g1 r2 r8>
+C >c8 r8r2 f8 r8r2 c8< r8r2 g8 r8r2
+D [r4. @v0cr r4]3 r4 @v0cr r4 @v0cr
+
+;/13
+A d4 c+8 d8 r8 c+8 d4 f4. d8
+C >c8 r8r2 f8< r8r2
+D r4. @v0cr r4   r4 @v0cr r4 @v0cr
+
+A f8 r4 < f4. g4. a4.
+C f4. g8r4 g+8r4 a8r4
+D [r4. @v0cr r4]2
+
+A a+8 r4 f4. e4. d+4.
+C a+8 r4 f4. e4. d+4.
+D [r4. @v0cr r4]2
+
+A d1 r2 >
+C d4. g8 r4 a8 r4 a+8 r4
+D r4. @v0cr r4   r4 @v0cr r4 @v0cr

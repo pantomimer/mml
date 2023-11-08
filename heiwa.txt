@@ -65,12 +65,10 @@ F r4. hs: r4 r4. hs: r8 hs:
 A f4. g8r4 g+8r4 a8r4
 F [r4. hs: r4]2
 
-9 a+8 r4 f4. e4. d+. 
-A a+8 r4 f4. e4. d+. d. 
+9 a+8 r4 f4. e4. d+4.
+A a+8 r4 f4. e4. d+4.
 F [r4. hs: r4]2
 
 9 d1 r2 >
-A g8r4 a8r4 a+8r4
+A d4. g8 r4 a8 r4 a+8 r4
 F r4. hs: r4 r4. hs: r8 hs:
-
-

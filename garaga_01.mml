@@ -1,0 +1,4 @@
+A t150 l4 o4         bgec                  r8.b16g8.e16   {ceg}4     {e-g-a}4  
+B t150 l4 o4         gec<b                 r8.f16>e8.c16  {<b>ce}4   {ce-f}4
+C t150 l4 o4         b1                    b2gb
+
